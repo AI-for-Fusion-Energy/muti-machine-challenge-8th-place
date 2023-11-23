@@ -1,4 +1,4 @@
-# AI-for-Fusion-Energy-PS-008
+# muti-machine-challenge-8th-place
 This repository contains the code and description of our solution as well as the report and the final presentation slide.
 
 AI-for-Fusion-Energy:The objective of this challenge is to develop a disruption prediction model that can be applied universally, using J-TEXT and HL-2A as the current devices and C-Mod as the future device.For more information about this challenge go to [AI-for-Fusion-Energy](https://zindi.africa/competitions/multi-machine-disruption-prediction-challenge/).
